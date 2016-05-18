@@ -1,0 +1,1 @@
+x11vnc -repeat -shared -forever -clip 1920x1080+0+0 -gui -viewonly -rfbport 5900 -nocursorshape
